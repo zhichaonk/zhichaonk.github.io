@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Seminar</title>
+</head>
+<body style="max-width: 900px; margin: 40px auto;
+             padding: 0 20px; line-height: 1.6;">
+  <p><a href="/">Back to homepage</a></p>
 
+  <h1>[Seminar name]</h1>
+  <p>[This is the Geometric Analysis Seminar at SCMS.]</p>
+  <p><strong>Organizers:</strong> [Zhichao Wang]</p>
+  <p><strong>Usual time and venue:</strong> [Details]</p>
+
+  <hr>
+  <h2>Upcoming talks</h2>
+
+  <h3>[Talk title]</h3>
+  <p><strong>Speaker:</strong> [Jianchun Chu (Peking University)]</p>
+  <p><strong>Date and time:</strong> [Oct. 15, 10:00--11:00]</p>
+  <p><strong>Venue:</strong> [SCMS 106]</p>
+  <p><strong>Abstract:</strong> [Talk abstract]</p>
+
+  <hr>
+  <h2>Past talks</h2>
+  <p>Past talks will be listed here.</p>
+</body>
+</html>
